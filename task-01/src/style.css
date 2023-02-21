@@ -33,3 +33,7 @@
   opacity: 0.4;
   margin-bottom: 8px;
 }
+
+.container .title {
+  color: grey;
+}

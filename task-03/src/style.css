@@ -1,0 +1,21 @@
+.book-table {
+    border-collapse: collapse;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    min-width: 400px;
+    width: 100%;
+  }
+  
+  .book-table th {
+    background-color: #eee;
+    color: #333;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .book-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
